@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985377708608",
+    "project_id": "e-commerce-4382c",
+    "storage_bucket": "e-commerce-4382c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985377708608:android:bef168e86c570b90a55da5",
+        "android_client_info": {
+          "package_name": "com.example.Harmik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985377708608-mv05kr7ld4vb02788q21nglrlojlagp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Harmik",
+            "certificate_hash": "bb7a9be7c5080f3fab09cc6e1705105ae9b31788"
+          }
+        },
+        {
+          "client_id": "985377708608-baq466e2dku4oa3v1ifane37kpt76vgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9dXU85agaestOtcbP233GGhtdLh75yLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985377708608-baq466e2dku4oa3v1ifane37kpt76vgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

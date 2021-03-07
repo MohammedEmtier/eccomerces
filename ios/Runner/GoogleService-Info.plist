@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>985377708608-er3qfu7185m5fq94apkkb7vrklcjj3e8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.985377708608-er3qfu7185m5fq94apkkb7vrklcjj3e8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>985377708608-mv05kr7ld4vb02788q21nglrlojlagp8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPcvQIN6MUwlLI1XTocBC2dg_cBQpe3lE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>985377708608</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.Harmik</string>
+	<key>PROJECT_ID</key>
+	<string>e-commerce-4382c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>e-commerce-4382c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:985377708608:ios:d96460aa5f091240a55da5</string>
+</dict>
+</plist>
